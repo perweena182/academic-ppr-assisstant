@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+neo4j
+transformers
+torch
+pydantic
