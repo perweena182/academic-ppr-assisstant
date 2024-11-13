@@ -90,13 +90,10 @@ This application is aimed at providing an interactive, research-focused experien
 ## Getting Started
 1. Clone this repository.
 2. Install dependencies using `pip install -r requirements.txt`.
-3. Set up environment variables as listed in `.env.example`.
-4. Run the FastAPI and Streamlit/Chainlit servers.
-5. Access the frontend at the provided local address.
+3. Run the FastAPI and Streamlit/Chainlit servers.
+4. Access the frontend at the provided local address.
 
 ## Conclusion
 Both applications provide distinct approaches to academic research, whether through summarization, question-answering, or advanced retrieval using RAG and graph databases. They represent powerful tools for enhancing research productivity and discovery.
 
---- 
 
-This README should provide clear instructions and a high-level comparison of both projects, highlighting their unique functionalities and use cases.
